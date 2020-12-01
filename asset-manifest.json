@@ -1,24 +1,35 @@
 {
   "files": {
-    "main.css": "/CaseStudy/static/css/main.0b257570.chunk.css",
-    "main.js": "/CaseStudy/static/js/main.bbf36188.chunk.js",
-    "main.js.map": "/CaseStudy/static/js/main.bbf36188.chunk.js.map",
-    "runtime-main.js": "/CaseStudy/static/js/runtime-main.9d2cdb35.js",
-    "runtime-main.js.map": "/CaseStudy/static/js/runtime-main.9d2cdb35.js.map",
-    "static/js/2.b2c67ed2.chunk.js": "/CaseStudy/static/js/2.b2c67ed2.chunk.js",
-    "static/js/2.b2c67ed2.chunk.js.map": "/CaseStudy/static/js/2.b2c67ed2.chunk.js.map",
-    "static/js/3.20eca895.chunk.js": "/CaseStudy/static/js/3.20eca895.chunk.js",
-    "static/js/3.20eca895.chunk.js.map": "/CaseStudy/static/js/3.20eca895.chunk.js.map",
+    "main.css": "/CaseStudy/static/css/main.effcf843.chunk.css",
+    "main.js": "/CaseStudy/static/js/main.8c8b408d.chunk.js",
+    "main.js.map": "/CaseStudy/static/js/main.8c8b408d.chunk.js.map",
+    "runtime-main.js": "/CaseStudy/static/js/runtime-main.0ada76c0.js",
+    "runtime-main.js.map": "/CaseStudy/static/js/runtime-main.0ada76c0.js.map",
+    "static/js/2.4e82b0a9.chunk.js": "/CaseStudy/static/js/2.4e82b0a9.chunk.js",
+    "static/js/2.4e82b0a9.chunk.js.map": "/CaseStudy/static/js/2.4e82b0a9.chunk.js.map",
+    "static/js/3.4d43a332.chunk.js": "/CaseStudy/static/js/3.4d43a332.chunk.js",
+    "static/js/3.4d43a332.chunk.js.map": "/CaseStudy/static/js/3.4d43a332.chunk.js.map",
     "index.html": "/CaseStudy/index.html",
-    "static/css/main.0b257570.chunk.css.map": "/CaseStudy/static/css/main.0b257570.chunk.css.map",
-    "static/js/2.b2c67ed2.chunk.js.LICENSE.txt": "/CaseStudy/static/js/2.b2c67ed2.chunk.js.LICENSE.txt",
+    "static/css/main.effcf843.chunk.css.map": "/CaseStudy/static/css/main.effcf843.chunk.css.map",
+    "static/js/2.4e82b0a9.chunk.js.LICENSE.txt": "/CaseStudy/static/js/2.4e82b0a9.chunk.js.LICENSE.txt",
     "static/media/Indigenous.bc52b435.jpeg": "/CaseStudy/static/media/Indigenous.bc52b435.jpeg",
-    "static/media/Young.c274aa0c.jpeg": "/CaseStudy/static/media/Young.c274aa0c.jpeg"
+    "static/media/Young.c274aa0c.jpeg": "/CaseStudy/static/media/Young.c274aa0c.jpeg",
+    "static/media/graph1.0d6c8736.png": "/CaseStudy/static/media/graph1.0d6c8736.png",
+    "static/media/graph2.8cb12964.png": "/CaseStudy/static/media/graph2.8cb12964.png",
+    "static/media/graph3.494c0738.png": "/CaseStudy/static/media/graph3.494c0738.png",
+    "static/media/image 1.9ab2e88f.png": "/CaseStudy/static/media/image 1.9ab2e88f.png",
+    "static/media/image 2.39be935f.png": "/CaseStudy/static/media/image 2.39be935f.png",
+    "static/media/image 3.36b85bd9.png": "/CaseStudy/static/media/image 3.36b85bd9.png",
+    "static/media/image 4.ceebeaf2.png": "/CaseStudy/static/media/image 4.ceebeaf2.png",
+    "static/media/image 5.f9d7743c.png": "/CaseStudy/static/media/image 5.f9d7743c.png",
+    "static/media/image 6.0aa1eb2e.png": "/CaseStudy/static/media/image 6.0aa1eb2e.png",
+    "static/media/image 7.93e0e402.png": "/CaseStudy/static/media/image 7.93e0e402.png",
+    "static/media/image 8.37cbd7f1.png": "/CaseStudy/static/media/image 8.37cbd7f1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d2cdb35.js",
-    "static/js/2.b2c67ed2.chunk.js",
-    "static/css/main.0b257570.chunk.css",
-    "static/js/main.bbf36188.chunk.js"
+    "static/js/runtime-main.0ada76c0.js",
+    "static/js/2.4e82b0a9.chunk.js",
+    "static/css/main.effcf843.chunk.css",
+    "static/js/main.8c8b408d.chunk.js"
   ]
 }
